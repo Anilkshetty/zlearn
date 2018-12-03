@@ -1,2 +1,0 @@
-# zlearn
-hai hello world
